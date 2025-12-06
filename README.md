@@ -1,4 +1,4 @@
-### Hi there, I'm Vinl 👋
+### Hi there, I'm Vinil 👋
 
 **Data Scientist | Aspiring AI Engineer | NLP Specialist**
 
