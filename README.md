@@ -10,7 +10,7 @@ Currently, I am bridging the gap between "notebook data science" and production 
 
 ### 🚀 Featured Project
 
-**[✈️ Singapore Airlines Customer Intelligence (NLP)](https://github.com/[your-username]/singapore-airlines-nlp)**
+**[✈️ Singapore Airlines Customer Intelligence (NLP)](https://github.com/Vinil247/singapore-airlines-nlp-analysis)**
 *An end-to-end NLP pipeline decoding the "Voice of the Customer" from 10k+ reviews.*
 
 | **The Engineering** | **The Strategy** | **The Impact** |
@@ -65,6 +65,5 @@ When I'm not training models, I'm deciphering the past.
 
 I’m open to conversations about **NLP**, **ML Engineering**, and **Real-World Data Systems**.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/[your-linkedin-profile])
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@[your-medium-handle])
-[<img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/[your-kaggle-handle])
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/vinil-patell)
+
