@@ -38,7 +38,6 @@ Currently, I am bridging the gap between "notebook data science" and production 
 **Data Engineering & Ops**
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![WandB](https://img.shields.io/badge/-WandB-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 ---
