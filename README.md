@@ -55,8 +55,7 @@ I am actively building projects to expand my capabilities in **Scalable Data Eng
 
 ### 🌱 Personal Interests
 
-When I'm not training models, I'm deciphering the past.
-* **Languages:** Learning 🇯🇵 Japanese, 🇫🇷 French, and 𓂋𓏺𓈖 🇪🇬 Egyptian Hieroglyphics.
+* **Languages:** Learning 🇯🇵 Japanese  and 𓂋𓏺𓈖 🇪🇬 Egyptian Hieroglyphics.
 * **History:** Deep interest in archaeology and how ancient cultures intersect with modern technology.
 
 ---
