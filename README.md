@@ -47,7 +47,7 @@ Currently, I am bridging the gap between "notebook data science" and production 
 I am actively building projects to expand my capabilities in **Scalable Data Engineering** and **Generative AI Systems**.
 
 * **[In Progress] NY Hospital Analytics Pipeline:** A full-stack ETL project. Ingesting raw encounter data → Star Schema Modeling → SQL Analytics → PowerBI Dashboard.
-* **[In Progress] Vision Transformers from Scratch (Paper Replication) for Land‑Use Classification on EuroSAT Using Pytorch
+* **[In Progress] Vision Transformers from Scratch (Paper Replication)** for Land‑Use Classification on EuroSAT Using Pytorch
 * **[Planned] Semantic Search RAG:** Building a retrieval-augmented generation system for ArXiv papers using Vector Stores and LLMs.
 * **[Learning] Efficient Fine-Tuning:** Exploring Lora/QLoRA applications on real-world datasets.
 
